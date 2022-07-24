@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/food_order" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/food_order/java-getting-started" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/foodorder" vcs="Git" />
+  </component>
+</project>
